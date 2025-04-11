@@ -11,3 +11,7 @@ apt instal mpg321
 pip install openai
 
 pip install edge_tts
+
+pip install openai-whisper
+
+pip install scipy
